@@ -1,5 +1,5 @@
 {
-    "name": "orders-connector",
+    "name": "mongo-connector",
     "config": {
         "connector.class" : "io.debezium.connector.mongodb.MongoDbConnector",
         "tasks.max" : "1",
